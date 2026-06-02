@@ -29,9 +29,9 @@ confidence in the "Known Issues" column's accuracy and recency.
 | ~+Manjaro~x           | ~!Very Low~x      | ~!pamac/octopi~x [†](feature-compatibility.html#pamac) | ~^Unmaintained~x | ~!None~x |
 | ~+MX Linux~x          | ~!None~x          | ~%None~x     | ~!No~x           | ~!None~x |
 | ~+NixOS~x             | ~!Very Low~x      | ~!many~x [†](#nixos) | ~!No~x   | ~!None~x     |
-| ~+OpenSUSE~x          | ~!Very Low~x      | ~!defaults to grub+btrfs~x [†](feature-compatibility.html#grub-btrfs-zfs) | ~!No~x | ~!None~x |
+| ~+OpenSUSE~x          | ~!Very Low~x      | ~%None~x     | ~!No~x           | ~!None~x     |
 | ~+OpenWRT~x           | ~!Very Low~x      | ~%None~x     | ~^Unmaintained~x | ~!None~x     |
-| ~+Pop!\_OS~x          | ~%High~x          | ~%None~x      | ~!No~x          | ~!None~x |
+| ~+Pop!\_OS~x          | ~%High~x          | ~%None~x     | ~!No~x          | ~!None~x |
 | ~+QubesOS~x           | ~!None~x          | ~%None~x     | ~!No~x           | ~!None~x   |
 | ~+Raspbian~x          | ~^Medium~x        | ~%None~x     | ~%Yes~x          | ~%paradigm~x |
 | ~+Slackware~x         | ~^Low~x           | ~!BSD-style SysV init~x [†](feature-compatibility.html#bsd-style-sysv) | ~^Unmaintained~x | ~!None~x |
